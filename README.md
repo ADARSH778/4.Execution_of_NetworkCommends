@@ -27,6 +27,22 @@ This commands includes
 <BR>
 
 ## Output
+### IPCONFIG 
+
+### NBTSTAT
+
+### NSLOOKUP
+
+### HOSTNAME
+
+### TRACERT
+
+### PING
+
+### NETSTAT
+
+### GETMAC
+
 
 ## Result
 Thus Execution of Network commands Performed 
