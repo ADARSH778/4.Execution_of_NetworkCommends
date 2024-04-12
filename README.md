@@ -30,6 +30,7 @@ This commands includes
 ### IPCONFIG 
 
 ### NBTSTAT
+![Screenshot (56)](https://github.com/ADARSH778/4.Execution_of_NetworkCommends/assets/149347361/8f345f47-2b26-4c41-bf20-785050c1f076)
 
 ### NSLOOKUP
 
