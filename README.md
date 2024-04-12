@@ -42,10 +42,14 @@ This commands includes
 ### TRACERT
 ![tracert](https://github.com/Aakashraj04/4.Execution_of_NetworkCommends/assets/121117266/848b96dd-e660-4d0b-b59f-1a51a026ed6c)
 ### PING
+![Screenshot (60)](https://github.com/ADARSH778/4.Execution_of_NetworkCommends/assets/149347361/0d8a839d-38d8-4dbd-9ec4-911bf755038b)
 
 ### NETSTAT
+![Screenshot (61)](https://github.com/ADARSH778/4.Execution_of_NetworkCommends/assets/149347361/eda8e068-152b-4a91-bd75-dd4f2cd65530)
 
 ### GETMAC
+![Screenshot (62)](https://github.com/ADARSH778/4.Execution_of_NetworkCommends/assets/149347361/724686cb-3b2c-4a1c-8f63-31c8f1cbe911)
+
 
 
 ## Result
