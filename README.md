@@ -28,13 +28,16 @@ This commands includes
 
 ## Output
 ### IPCONFIG 
+![Screenshot (57)](https://github.com/ADARSH778/4.Execution_of_NetworkCommends/assets/149347361/b184b7b1-805d-4f63-b449-99330c1b0bbb)
 
 ### NBTSTAT
 ![Screenshot (56)](https://github.com/ADARSH778/4.Execution_of_NetworkCommends/assets/149347361/8f345f47-2b26-4c41-bf20-785050c1f076)
 
 ### NSLOOKUP
+![Screenshot (58)](https://github.com/ADARSH778/4.Execution_of_NetworkCommends/assets/149347361/5ec33911-9f0e-4eb2-b3ee-ca7265f5dcd0)
 
 ### HOSTNAME
+![Screenshot (59)](https://github.com/ADARSH778/4.Execution_of_NetworkCommends/assets/149347361/6bfe9789-6db2-4b76-a957-465ccfbd4c81)
 
 ### TRACERT
 
