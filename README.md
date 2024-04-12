@@ -40,7 +40,7 @@ This commands includes
 ![Screenshot (59)](https://github.com/ADARSH778/4.Execution_of_NetworkCommends/assets/149347361/6bfe9789-6db2-4b76-a957-465ccfbd4c81)
 
 ### TRACERT
-
+![tracert](https://github.com/Aakashraj04/4.Execution_of_NetworkCommends/assets/121117266/848b96dd-e660-4d0b-b59f-1a51a026ed6c)
 ### PING
 
 ### NETSTAT
